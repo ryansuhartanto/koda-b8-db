@@ -115,8 +115,7 @@ products_images {
  int  id_product FK
  int? id_variant FK
 
- string  url
- string? alt
+ string url
 }
 
 products_price {
